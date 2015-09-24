@@ -2,8 +2,8 @@
 
 #### Instructor: Davis Allie
 
-In this tutorial I will introduce you to tvOS development for the new Apple TV through the creation of a very basic app. I will also discuss the key differences between iOS and tvOS development and what requirements developers must fulfil.
+In this tutorial, I will introduce you to tvOS development for the new Apple TV by creating a basic application. I will also discuss the key differences between iOS and tvOS development, and what the requirements are for developers.
 
-Finished Playground for the Tuts+ tutorial: [An Introduction to tvOS Development](http://code.tutsplus.com/tutorials/an-introduction-to-tvos-development--cms-24848)
+Source files for the Tuts+ tutorial: [An Introduction to tvOS Development](http://code.tutsplus.com/tutorials/an-introduction-to-tvos-development--cms-24848)
 
-**Read this tutorial on [Tuts+](https://code.tutsplus.com)**
+**Read this tutorial on [Tuts+](https://code.tutsplus.com)**.
